@@ -5,6 +5,6 @@
 
 <hr>
 
-
+<a href="${pageContext.request.contextPath}/api/customers">Customers List API</a>
 </body>
 </html>
